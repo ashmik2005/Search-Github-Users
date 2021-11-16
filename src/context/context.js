@@ -4,4 +4,4 @@ import mockRepos from './mockData.js/mockRepos';
 import mockFollowers from './mockData.js/mockFollowers';
 import axios from 'axios';
 
-const rootUrl = 'https://api.github.com';
+const rootUrl = 'https://api.github.com';    
